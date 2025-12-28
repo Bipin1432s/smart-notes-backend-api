@@ -1,4 +1,4 @@
-\# Smart Notes Backend API
+# Smart Notes Backend API
 
 
 
@@ -6,31 +6,31 @@ A secure REST API for managing personal notes with JWT authentication.
 
 
 
-\## Features
+## Features
 
-\- User Registration \& Login
+- User Registration \& Login
 
-\- JWT Protected Endpoints
+- JWT Protected Endpoints
 
-\- Create, Read \& Delete Notes
+- Create, Read \& Delete Notes
 
-\- Pagination \& Search
+- Pagination \& Search
 
-\- MySQL Database Integration
+- MySQL Database Integration
 
 
 
-\## Tech Stack
+## Tech Stack
 
-\- Python
+- Python
 
-\- FastAPI
+- FastAPI
 
-\- MySQL
+- MySQL
 
-\- SQLAlchemy
+- SQLAlchemy
 
-\- JWT Authentication
+- JWT Authentication
 
 
 
